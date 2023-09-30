@@ -1,2 +1,8 @@
-# Python-challenges
-Some challenges in python, to pratice the logic programming.
+# Desafios em python
+
+Desafios em python criados e propostos semanalmente pela comunidade Python.🐍
+
+
+| Desafios  | Nome |
+| ------------- | ------------- |
+| 01  | Polímero  |
